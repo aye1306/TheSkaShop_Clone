@@ -1,0 +1,43 @@
+.btn-follow {
+    font-size: 14px;
+    width: 100px;
+    box-shadow: 1px 3px 10px gray;
+}
+.h1Theska {
+    font-weight: bold;
+}
+.slide-show {
+    margin: 20px;
+}
+.descText {
+    margin: 20px;
+}
+.slide-start a {
+    font-size: 20px;
+    font-weight: normal;
+}
+.slide-start li a {
+    font-size: 20px;
+    font-weight: normal;
+}
+.slide-end li a {
+    font-size: 14px;
+    font-weight: normal;
+    color: gray;
+}
+.slide-end li a i {
+    font-size: 14px;
+}
+.slide-end li button {
+    font-size: 12px;
+}
+.col-allP {
+    padding-top: 7px;
+}
+.allP {
+    text-decoration: none;
+    font-size: 14px;
+}
+figure figcaption p {
+    font-size: 18px;
+}
